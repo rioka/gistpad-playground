@@ -77,6 +77,7 @@ Some links provided, it imay be worth taking a look anyway:
 
 - "Collapsible Code Blocks plugin" seems to be the best you can get, at least it works in reading mode
 - "Style Settings" seems to have an option like "Scroll long lines", but I cannot find it.
+- try [Dendron Importer](https://github.com/luisabellan/dendron-obsidian-importer)
 
 ## TO DO (blocked by FW proxy)
 
