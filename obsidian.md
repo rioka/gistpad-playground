@@ -79,8 +79,11 @@ Some links provided, it imay be worth taking a look anyway:
 - "Style Settings" seems to have an option like "Scroll long lines", but I cannot find it.
 - try [Dendron Importer](https://github.com/luisabellan/dendron-obsidian-importer)
 - Use [Code Styler](github.com/mayurankv/Obsidian-Code-Styler) ⭐
+- PlantUML
+- Advanced Tables
 
 ## TO DO (blocked by FW proxy)
 
 - check [Javalent's plugins](https://valentine195.github.io/index) and https://plugins.javalent.com/admonitions (the latter is blocked by FW proxy)
 - https://forum.obsidian.md/t/cannot-browse-or-install-community-plugins-themes-cannot-read-properties-of-null/107284
+- https://ptkm.net/
