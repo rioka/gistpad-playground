@@ -82,6 +82,16 @@ Some links provided, it imay be worth taking a look anyway:
 - PlantUML
 - Advanced Tables
 
+## Current setup
+
+- Theme: Minimal (by @kepano)
+- Plugins
+  - Code Styles (scrollable code blocks)
+  - Minimal Theme Settings (separate font for editing and reading mode)
+  - Advanced Tables (nice, but not really a "must have")
+  - Tasks (give it a try)
+  - Self-hosted LiveSync (give it a try)
+
 ## TO DO (blocked by FW proxy)
 
 - check [Javalent's plugins](https://valentine195.github.io/index) and https://plugins.javalent.com/admonitions (the latter is blocked by FW proxy)
